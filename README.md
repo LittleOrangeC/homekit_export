@@ -349,7 +349,7 @@ MIT
 
 ## Acknowledgments
 
-- [HomeClaw](https://github.com/omarshahine/HomeClaw) by Omar Shahine — HomeKit bridge for programmatic scene restoration
+- [HomeClaw](https://github.com/omarshahine/HomeClaw) by Omar Shahine — HomeKit bridge for programmatic access. Scene import, room assignment, and delete commands added via [PR #7](https://github.com/omarshahine/HomeClaw/pull/7).
 - Built with Claude (Anthropic) through iterative reverse-engineering of the HomeKit database format
 
 Written by Matt Tomlinson & Claude.
